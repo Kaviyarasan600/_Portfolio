@@ -1,6 +1,6 @@
 import { BsPerson } from "react-icons/bs";
 import { FaFileDownload } from "react-icons/fa";
-import Resume from '../../assets/KAVIYARASAN M.pdf'
+import Resume from '../../assets/Kaviyarasan_Resume.pdf'
 import { Link } from "react-scroll";
 import './Home.css'
 
